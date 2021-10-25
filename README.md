@@ -1,3 +1,5 @@
+Update the token in /pages/api/config.json in order to view live data, if no data exists sample data will be rendered.
+
 # Next.js with TypeScript example
 
 ## How to use
